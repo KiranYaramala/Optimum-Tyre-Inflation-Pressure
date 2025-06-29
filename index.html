@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Optimum Tyre Pressure for Vehicles</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="https://static.vecteezy.com/system/resources/previews/035/083/421/original/tire-icon-line-icon-for-your-website-mobile-presentation-and-logo-design-vector.jpg">
+    <link rel="manifest" href="/manifest.json"> <!-- Link to manifest.json -->
+</head>
+<body>
+    <header>
+        <h1>Optimum Tyre Inflation Pressure</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#search">Search</a></li>
+                <li><a href="#calculator">Calculator</a></li>
+                <li><a href="#tips">Tips</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2 id="Welcome">🛞Welcome🛞</h2>
+            <p>
+                Welcome to the Optimum Tyre Inflation Pressure Finder, designed to help you maintain the ideal tyre pressure for your vehicle. Properly inflated tyres are crucial for safe driving, optimal fuel efficiency, and extending the lifespan of your tyres. 
+                This tool offers a convenient way to find recommended tyre pressures for various vehicles, including cars, bikes, and trucks. Enter your vehicle's make and model.
+                This tool aims to support you in keeping your tyres well-maintained and your driving experience safe and efficient.
+            </p>
+        </section>
+        <section id="search">
+            <h2>Search for Your Vehicle</h2>
+            <label for="vehicleType">Vehicle Type:</label>
+            <select id="vehicleType">
+                <option selected value=None>Select One</option>
+                <option value="car">Car</option>
+                <option value="bike">Bike</option>
+                <option value="truck">Truck</option>
+            </select>
+            <br><br>
+            <label for="make">Make:</label>
+            <input type="text" id="make" placeholder="Enter your vehicle make">
+            <br><br>
+            <label for="model">Model:</label>
+            <input type="text" id="model" placeholder="Enter your vehicle model">
+            <br><br>
+            <label for="currentPressure">Current Tyre Pressure:</label>
+            <input type="number" id="currentPressure" placeholder="Enter current tyre pressure">
+            <br><br>
+            <label for="pressureUnit">Pressure Unit:</label>
+            <select id="pressureUnit">
+                <option selected value="psi">PSI</option>
+                <option value="bar">Bar</option>
+                <option value="kpa">kPa</option>
+            </select>
+            <br><br>
+            <button onclick="searchTyrePressure()">Find Tyre Pressure</button>
+            <br><br>
+            <div id="result"></div>
+        </section>
+
+        <section id="calculator">
+            <h2>Tyre Pressure Calculator</h2>
+            <label for="load">Current Load (kg):</label>
+            <input type="number" id="load" placeholder="Enter current load">
+            <br><br>
+            <button onclick="calculatePressure()">Calculate Pressure</button>
+            <br><br>
+            <div id="calcResult"></div>
+        </section>
+        <section id="tips">
+            <h2>Tyre Maintenance Tips</h2>
+            <ul>
+                <li>Check tyre pressure regularly.</li>
+                <li>Inspect tyres for damage and wear.</li>
+                <li>Rotate your tyres every 5,000 to 7,000 miles.</li>
+                <li>Balance your tyres to prevent uneven wear.</li>
+                <li>Replace tyres when tread depth is below 2/32 of an inch.</li>
+            </ul>
+        </section>
+
+        <!-- Install Button -->
+        <section id="installSection" style="text-align: center; margin-top: 50px;">
+            <button id="installButton" style="display: none;">Install App</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>Design and Developed by KIRAN 99210041780   </p>
+    </footer>
+
+    <script src="script.js"></script> <!-- Ensure your script.js is linked here -->
+</body>
+</html>

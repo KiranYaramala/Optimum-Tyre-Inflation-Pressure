@@ -1,0 +1,564 @@
+{
+  "car": {
+    "Maruti": {
+      "Alto K10": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency , a harsher ride, and increased wear on the tire center."
+      },
+      "Swift": {
+        "pressure": 30,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Baleno": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "S-presso": {
+        "pressure": 33,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Wagon R": {
+        "pressure": 33,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Eeco": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Ertiga": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Celerio": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Dzire": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Vitara Brezza": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "XL6": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Ignis": {
+        "pressure": 33,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "S-Cross": {
+        "pressure": 33,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Fronx": {
+        "pressure": 29,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      }
+    },
+    "Hyundai": {
+      "i10": {
+        "pressure": 30,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "i20": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Creta": {
+        "pressure": 35,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Venue": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Alcazar": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Kona": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Tucson": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Custo": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Verna": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Exter": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      }
+    },
+    "Tata": {
+      "Tiago": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Tigor": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Altroz": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Punch": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Nexon": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Harrier": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Safari": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Rivaz": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Tigor EV": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Punch EV": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Tiago EV": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Altroz EV": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Nexon EV": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Harrier EV": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Safari EV": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Rivaz EV": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      }
+    },
+    "Honda": {
+      "Amaze": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "City": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Jazz": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "WR-V": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Civic": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "CR-V": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "HR-V": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "City Hybrid": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "WR-V Hybrid": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Civic Hybrid": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "CR-V Hybrid": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "HR-V Hybrid": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      }
+    },
+    "Toyota": {
+      "Etios": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Etios Liva": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Etios Cross": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Yaris": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Urban Cruiser": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Fortuner": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Innova": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Innova Crysta": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Camry": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Land Cruiser": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Land Cruiser Prado": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Land Cruiser V8": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      }
+    },
+    "Renault": {
+      "Kwid": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Triber": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Kiger": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Duster": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Kwid Electric": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Triber Electric": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Kiger Electric": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Duster Electric": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      }
+    },
+    "Skoda": {
+      "Kodiaq": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Kodiaq RS": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Kodiaq GT": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Kodiaq GT RS": {
+        "pressure": 32,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Kushaq": {
+        "pressure": 33,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      }
+    },
+    "Volkswagen": {
+      "Polo": {
+        "pressure": 41,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Taigun": {
+        "pressure": 33,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Virtus": {
+        "pressure": 33,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "T-Roc": {
+        "pressure": 35,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Tiguan": {
+        "pressure": 39,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Touareg": {
+        "pressure": 37,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      }
+    }
+  },
+  "bike": {
+    "Hero": {
+      "Splendor": {
+        "pressure": 25,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Glamour": {
+        "pressure": 28,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "HF Deluxe": {
+        "pressure": 24,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Super Splendor": {
+        "pressure": 26,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Passion Pro": {
+        "pressure": 27,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "XPulse 200": {
+        "pressure": 30,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Xtreme 160R": {
+        "pressure": 28,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Maestro Edge": {
+        "pressure": 22,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Destini 125": {
+        "pressure": 22,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      },
+      "Pleasure+": {
+        "pressure": 22,
+        "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+        "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+      }
+    }
+  },
+  "truck":{
+    "Ford": {
+        "F-150": {
+          "pressure": 35,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        },
+        "Ranger": {
+          "pressure": 35,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        },
+        "Super Duty": {
+          "pressure": 40,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        }
+      },
+      "Chevrolet": {
+        "Silverado": {
+          "pressure": 35,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        },
+        "Colorado": {
+          "pressure": 35,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        },
+        "Silverado HD": {
+          "pressure": 40,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        }
+      },
+      "Ram": {
+        "1500": {
+          "pressure": 35,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        },
+        "2500": {
+          "pressure": 40,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        },
+        "3500": {
+          "pressure": 45,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        }
+      },
+      "Toyota": {
+        "Tacoma": {
+          "pressure": 35,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        },
+        "Tundra": {
+          "pressure": 35,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        },
+        "Sequoia": {
+          "pressure": 35,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        },
+        "Land Cruiser Pickup": {
+          "pressure": 40,
+          "low": "Underinflated tires can lead to increased wear on the tire edges, reduced fuel efficiency, and increased risk of tire failure.",
+          "high": "Overinflated tires can lead to reduced traction and increased fuel efficiency, a harsher ride, and increased wear on the tire center."
+        }
+      }
+  }
+}
